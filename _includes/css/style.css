@@ -441,7 +441,10 @@ csmall {
 
 /* Contact Page */
 #contactwrap {
-	background: url(../img/contact.jpg) no-repeat center top;
+	background-image: url(../img/contact.jpg);
+	background-repeat:no-repeat;
+	background-position: center top;
+	opacity: 0.5;
 	margin-top: -60px;
 	padding-top:0px;
 	text-align:center;
