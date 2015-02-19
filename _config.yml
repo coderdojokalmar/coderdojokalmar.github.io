@@ -92,20 +92,18 @@ members:
     
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: dribbble
+  - name: AvMedia Kalmar
     img: client01.png
-  - name: Code is Poetry
+  - name: Linnéuniversitetet
     img: client02.png
-  - name: Vimeo
+  - name: Kalmar Science Park
     img: client03.png
-  - name: VimeoPro
-    img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "CoderDojo är ett globalt nätverk av öppna, mentorsledda, oberoende, gemenskaphetsdrivna programmeringsstugor för unga. Ungdomarna, i åldrarna 7-17, lär sig koda, utveckla webbsidor, appar, program, spel och utforska teknik i en kreativ miljö. Förutom att lära sig koda så träffar deltagarna andra med samma intresse och får visa upp vad de arbetar med."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    message: "Education should prepare young people for jobs that do not yet exist, using technologies that have not yet been invented, to solve problems of which we are not yet aware."
+    author: Richard Riley
+    position: Former United States Secretary of Education
