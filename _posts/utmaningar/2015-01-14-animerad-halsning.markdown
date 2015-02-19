@@ -1,5 +1,5 @@
 ---
-layout: projekt
+layout: project
 title:  "ANIMERAD HÄLSNING"
 date:   2014-04-25 16:54:46
 author: Daniel Toll

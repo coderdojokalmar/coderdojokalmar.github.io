@@ -1,5 +1,5 @@
 ---
-layout: projekt
+layout: project
 title:  "BREAKOUT"
 date:   2015-02-19 16:54:46
 author: Johan Leitet
