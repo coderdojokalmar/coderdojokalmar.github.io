@@ -42,27 +42,26 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+    - Nygatan 34
+    - Kalmar
+email: johan.leitet@lnu.se
+tel: 0706-420483
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
     
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
-    position: CEO
+  - name: Johan Leitet
+    position: Mentor
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team01.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:johan.leitet@lnu.se
       - title: twitter
-        url: http://twitter.com/handle
-  - name: Paul Jameson
+        url: http://twitter.com/leitet
+  - name: Daniel Toll
     position: Lead Designer
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team02.jpg
@@ -98,6 +97,8 @@ clients:
     img: client02.png
   - name: Kalmar Science Park
     img: client03.png
+  - name: CoderDojo
+    img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "CoderDojo är ett globalt nätverk av öppna, mentorsledda, oberoende, gemenskaphetsdrivna programmeringsstugor för unga. Ungdomarna, i åldrarna 7-17, lär sig koda, utveckla webbsidor, appar, program, spel och utforska teknik i en kreativ miljö. Förutom att lära sig koda så träffar deltagarna andra med samma intresse och får visa upp vad de arbetar med."
