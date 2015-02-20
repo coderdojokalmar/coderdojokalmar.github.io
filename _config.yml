@@ -2,8 +2,8 @@
 
 # Site settings
 title: CoderDojo Kalmar
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
+description: "CoderDojo är ett globalt nätverk av öppna, mentorsledda, oberoende, gemenskaphetsdrivna programmeringsstugor för unga. Ungdomarna, i åldrarna 7-17, lär sig koda, utveckla webbsidor, appar, program, spel och utforska teknik i en kreativ miljö. Förutom att lära sig koda så träffar deltagarna andra med samma intresse och får visa upp vad de arbetar med."
+analytics: UA-59960580-1
 baseurl: "" #important: start with /
 url: "http://yourdomain.com"
 
