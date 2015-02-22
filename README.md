@@ -1,4 +1,4 @@
-# Publik webbsida för CoderDojo Kalmar
+# Publik webbsida för CoderDojo Kalmar[![Build Status](https://travis-ci.org/coderdojokalmar/coderdojokalmar.github.io.svg?branch=master)](https://travis-ci.org/coderdojokalmar/coderdojokalmar.github.io)
 
 Besök den på: [coderdojokalmar.github.io](http://coderdojokalmar.github.io)
 
