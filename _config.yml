@@ -108,3 +108,8 @@ testimonial:
     message: "Education should prepare young people for jobs that do not yet exist, using technologies that have not yet been invented, to solve problems of which we are not yet aware."
     author: Richard Riley
     position: Former United States Secretary of Education
+
+# Travis bundles all gems in the vendor directory on its build servers, which Jekyll will mistakenly read and explode on. To avoid this, exclude vendor in your _config.yml:
+#http://jekyllrb.com/docs/continuous-integration/
+exclude: [vendor]
+
