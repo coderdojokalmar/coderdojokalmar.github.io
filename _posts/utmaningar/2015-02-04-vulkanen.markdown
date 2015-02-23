@@ -6,6 +6,7 @@ author: DANIEL TOLL
 categories:
 - utmaning
 img: portfolio_02.png
+alt: Bilden
 thumb: thumb02.jpg
 carousel:
 - single01.jpg

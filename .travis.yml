@@ -4,7 +4,7 @@ rvm:
 install:
   - bundler install
 
-script: jekyll build && htmlproof ./_site
+script: jekyll build
 
 # branch whitelist
 branches:
