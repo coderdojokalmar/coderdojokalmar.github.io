@@ -63,7 +63,7 @@ members:
         url: http://twitter.com/leitet
   - name: Daniel Toll
     position: Mentor
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: Daniel undervisar programmering på Linneuniversitetet, han forskar även om programkodskvalitet.
     img: team02.jpg
     social:
       - title: envelope #use for email address
