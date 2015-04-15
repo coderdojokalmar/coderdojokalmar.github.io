@@ -5,7 +5,7 @@ title: CoderDojo Kalmar
 description: "CoderDojo är ett globalt nätverk av öppna, mentorsledda, oberoende, gemenskaphetsdrivna programmeringsstugor för unga. Ungdomarna, i åldrarna 7-17, lär sig koda, utveckla webbsidor, appar, program, spel och utforska teknik i en kreativ miljö. Förutom att lära sig koda så träffar deltagarna andra med samma intresse och får visa upp vad de arbetar med."
 analytics: UA-59960580-1
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://kalmar.coderdojo.se"
 
 # Build settings
 markdown: kramdown
@@ -44,8 +44,8 @@ address:
   - lines: 
     - Nygatan 34
     - Kalmar
-email: johan.leitet@lnu.se
-tel: 0706-420483
+email: kalmar.coderdojo@gmail.com
+tel: 0706-420483 (Johan Leitet)
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -53,41 +53,67 @@ tel: 0706-420483
 # Members information. Shown on About page.
 members:
   - name: Johan Leitet
-    position: Mentor
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    position: Huvudmentor
+    text: Johan undervisar i webbprogrammering på Linnéuniversitetet och är intresserad av allt som rör webben och internet.
     img: team01.jpg
     social:
       - title: envelope #use for email address
         url: mailto:johan.leitet@lnu.se
+      - title: home
+        url: https://johan.leitet.se
       - title: twitter
         url: http://twitter.com/leitet
+      - title: facebook
+        url: http://www.facebook.com/leitet
+      - title: instagram
+        url: https://instagram.com/leitet/
+
   - name: Daniel Toll
-    position: Mentor
+    position: Huvudmentor
     text: Daniel undervisar programmering på Linneuniversitetet, han forskar även om programkodskvalitet.
     img: team02.jpg
     social:
       - title: envelope #use for email address
         url: mailto:daniel.toll@lnu.se
-      - title: twitter
-        url: http://twitter.com/handle
+      - title: home
+        url: https://coursepress.lnu.se/daniel-toll/
   - name: Linnéa Josefsson
-    position: Mentor
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    position: Huvudmentor
+    text: Linnéa är kommunikatör på AV-Media och har alltid spännande robotar och annat kul att visa upp!
     img: team03.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+        url: mailto:linnea@avmkl.se
+      - title: home
+        url: http://www.avmkl.se/kontakt/75-linnea-j
   - name: Jacob Lindehoff
-    position: Mentor
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    position: Huvudmentor
+    text: Jacob undervisar främst inom systemadministration på Linnéuniversitetet. På fritiden så gillar han att automatisera allt i sitt hem.
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:jacob.lindehoff@lnu.se
       - title: twitter
         url: http://twitter.com/lindehoff
+
+  - name: Rasmus Israelsson
+    position: Mentor
+    img: rasmus.jpg
+
+  - name: Helen Madestam
+    position: Mentor
+    img: helen.jpg
+    social:
+    - title: envelope
+      url: mailto:helen.madestam@tieto.com
+
+  - name: Joel Stahre
+    position: Mentor
+    img: joel.jpg
+    social:
+      - title: envelope
+        url: mailto:joelstahre@gmail.com
+    
     
 # Clients information. Shown on Home and About pages.
 clients:
